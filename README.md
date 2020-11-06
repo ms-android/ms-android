@@ -17,8 +17,9 @@
 
 https://github.com/ms-android/android-module-super.git
 
-
 ## 微信语音编码模块
+
+
 
 ## 微信清理配置模块
 
@@ -52,3 +53,16 @@ https://github.com/ms-android/android-module-impl-request-config.git
 ## okhttp工具类模块
 
 ## 网络请求 httpurlconnection
+
+
+## data模块
+
+
+## 异常处理模块
+
+https://github.com/ms-android/android-module-impl-exception.git
+
+
+## 轻量级数据存储
+
+https://github.com/ms-android/android-module-impl-datapersistence.git
